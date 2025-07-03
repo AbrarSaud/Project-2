@@ -24,10 +24,6 @@ This project is about a shopping list app .
 4. The application provides navigation between pages.
 
 ## Screenshots :
-
-
-
-
 <img width="276" alt="1" src="https://github.com/AbrarSaud/Project-2/assets/109272922/22a3d8e4-6a1c-45fd-892e-b0edc37c58a8">
 <img width="276" alt="2" src="https://github.com/AbrarSaud/Project-2/assets/109272922/c6c53f42-ae86-48e9-9e00-ae3a1ec91fc6">
 <img width="276" alt="3" src="https://github.com/AbrarSaud/Project-2/assets/109272922/db1ead23-4d7c-433e-a922-41c5010c699e">
